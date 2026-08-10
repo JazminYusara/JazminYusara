@@ -39,16 +39,6 @@ I enjoy understanding how software works end-to-end and building reliable, autom
 - Cloud technologies
 - AI for Software Engineering
 
-## 📌 Featured Projects
-
-### 🛠️ Dotfiles
-Reproducible development environment for Windows 11 + WSL2 + Ubuntu.
-
-### 🔌 API Automation
-API test automation projects using Karate, Java and Maven.
-
-### 🌐 Web Automation
-Web automation projects using Selenium, Cucumber and Java.
 
 ---
 
