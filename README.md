@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Jazmin 👋
 
-<!--
-**JazminYusara/JazminYusara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software & QA Engineer** interested in Test Automation, Software Engineering and AI.
 
-Here are some ideas to get you started:
+I enjoy understanding how software works end-to-end and building reliable, automated and maintainable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+
+- 🧪 QA & Test Automation
+- 🔌 API automation with **Karate**
+- 🌐 Web automation with **Selenium & Cucumber**
+- ☕ Automation projects with **Java & Maven**
+- ⚙️ CI/CD and DevOps practices
+- 🤖 Exploring **AI applied to Software Engineering**
+
+## 🛠️ Tech Stack
+
+**Testing & Automation**
+
+`Karate` `Selenium` `Cucumber` `JUnit` `JMeter` `Postman`
+
+**Development**
+
+`Java` `Python` `SQL`
+
+**Tools**
+
+`Git` `GitHub` `Maven` `IntelliJ IDEA` `VS Code` `Linux` `WSL`
+
+**DevOps & CI/CD**
+
+`Jenkins` `Docker` `Azure`
+
+## 🌱 Currently Learning
+
+- Advanced Test Automation
+- API Automation
+- Docker & CI/CD
+- Cloud technologies
+- AI for Software Engineering
+
+## 📌 Featured Projects
+
+### 🛠️ Dotfiles
+Reproducible development environment for Windows 11 + WSL2 + Ubuntu.
+
+### 🔌 API Automation
+API test automation projects using Karate, Java and Maven.
+
+### 🌐 Web Automation
+Web automation projects using Selenium, Cucumber and Java.
+
+---
+
+💡 *Always learning, building and improving.*
